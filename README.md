@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello
+
+Recently I started to learn Html+CSS and hoping to learn JavaScript after that.
